@@ -1,1 +1,3 @@
-require('./main.scss');
+import {Form} from './Form';
+
+new Form;
