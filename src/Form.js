@@ -2,6 +2,6 @@ export class Form
 {
     constructor()
     {
-        alert('yay here\'s a form class');
+        console.log('yay here\'s a form class');
     }
 }

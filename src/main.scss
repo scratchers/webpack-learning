@@ -3,3 +3,8 @@ $primary: rebeccapurple;
 body {
     color: $primary;
 }
+
+.pic {
+    background-image: url('./images/jeff.jpg');
+    background-repeat: no-repeat;
+}
