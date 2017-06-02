@@ -19,6 +19,8 @@
     "extract-text-webpack-plugin": "^2.1.0",
     "file-loader": "^0.11.1",
     "node-sass": "^4.5.3",
+    "purify-css": "^1.2.2",
+    "purifycss-webpack": "^0.7.0",
     "sass-loader": "^6.0.5",
     "style-loader": "^0.18.1",
     "webpack": "^2.6.1"
