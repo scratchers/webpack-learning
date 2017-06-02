@@ -1,4 +1,6 @@
-import notification from './Notification';
+// import notification from './Notification';
+// 
+// notification.notify('hello once again');
+// notification.log('in the log again');
 
-notification.notify('hello once again');
-notification.log('in the log again');
+require('./main.css');
