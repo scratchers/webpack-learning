@@ -1,4 +1,4 @@
-import {notify, log} from './Notification';
+import notification from './Notification';
 
-notify('hello again');
-log('in the log');
+notification.notify('hello once again');
+notification.log('in the log again');
